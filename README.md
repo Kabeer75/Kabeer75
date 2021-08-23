@@ -8,7 +8,7 @@
 ## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
 ## 5. Repo View Counter
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/Face-Detection)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/DHT)
 ## Languages I know
 
 - ✨ **Javascript**
