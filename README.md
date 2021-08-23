@@ -6,6 +6,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
-### Repository View Counter - HITS
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Kabeer75/chillparadise.github.io)
 
