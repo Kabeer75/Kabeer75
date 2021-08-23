@@ -8,7 +8,7 @@
 ## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
 ## 5. Repo View Counter
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/DHT)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/LDR)
 ## DISCORD
 [![](https://img.shields.io/discord/833703967753764934?color=blue&label=Chill%20Paradise&logo=discord&logoColor=white&style=plastic)](https://discord.gg/A8ADYUGUnu)
 ## Languages I know
