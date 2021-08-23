@@ -3,4 +3,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Kabeer75/chillparadise.github.io)
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/Kabeer75/AvatarCommand)
+
