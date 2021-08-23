@@ -9,7 +9,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
 ## 5. Repo View Counter
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/Face-Detection)
-![](https://api.ghprofile.me/view?username=MiraBellierr&color=DA70D6&style=plastic&logo=Github&logoColor=DA70D6)
+## 6. Followers
+[![](https://img.shields.io/github/followers/Kabeer75?color=FF0000&label=Followers&logo=Github&logoColor=FF0000&style=plastic)](https://github.com/Kabeer75)
 ## Links
 * **[Discord](https://discord.gg/A8ADYUGUnu)**: My Discord server
 ## Logo Badge!
