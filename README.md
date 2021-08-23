@@ -13,6 +13,7 @@
 [![](https://img.shields.io/github/followers/Kabeer75?color=FF0000&label=Followers&logo=Github&logoColor=FF0000&style=plastic)](https://github.com/Kabeer75)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)<br>
 ![](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node-dot-js&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)
 ## Links
 * **[Discord](https://discord.gg/A8ADYUGUnu)**: My Discord server
