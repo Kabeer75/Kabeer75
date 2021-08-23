@@ -10,6 +10,8 @@
 ## 5. Repo View Counter
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/Face-Detection)
 
+## Links
+* **[Discord](https://discord.gg/A8ADYUGUnu)**: My Discord server
 ## Logo Badge!
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
