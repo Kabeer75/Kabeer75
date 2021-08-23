@@ -9,6 +9,12 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
 ## 5. Repo View Counter
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/Face-Detection)
+## Languages I know
+
+- ✨ **Javascript**
+- 👏 **HTML & CSS**
+- 🌠 **C# & C++**
+
 ## 6. Other Profile Stats
 [![](https://img.shields.io/github/followers/Kabeer75?color=FF0000&label=Followers&logo=Github&logoColor=FF0000&style=plastic)](https://github.com/Kabeer75)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)<br>
