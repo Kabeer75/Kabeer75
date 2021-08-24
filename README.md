@@ -62,7 +62,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Kabeer75/Kabeer75/blob/main/assets/DU0.gif">
 
 
-If you want to reach out to me about anything feel free to DM on Discord.
+If you want to reach out to me about anything feel free to DM on Discord. (Kabeer#8502)
 
 
 <a href="https://discord.gg/A8ADYUGUnu">
