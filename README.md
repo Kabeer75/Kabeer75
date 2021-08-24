@@ -38,13 +38,14 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="Javascript" width="100" hight="50">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node-dot-js&logoColor=white" alt="Node" width="100" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="visualstudio_code" width="100" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="100" hight="50">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white" alt="pc" width="100" hight="50">
 </p>
 </br>
 </br>
@@ -61,19 +62,11 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
-If you want to reach out to me about anything feel free to DM on Discord and even apps listed below.
+If you want to reach out to me about anything feel free to DM on Discord.
 
-<a href="mailto:kabeerparihar.imbue@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/Kabeer75">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
+
 <a href="https://discord.gg/A8ADYUGUnu">
-  <img align="left" alt=" Discord" width="130" hight="100" src="https://github.com/Kabeer75/Kabeer75/blob/main/assets/icons/Discord-Logo.png" />
+  <img align="left" alt=" Discord" width="130" hight="130" src="https://img.shields.io/discord/833703967753764934?color=blue&label=Chill%20Paradise&logo=discord&logoColor=white&style=plastic)](https://discord.gg/A8ADYUGUnu" />
 </a>
  </p>
  
