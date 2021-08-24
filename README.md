@@ -73,7 +73,7 @@ If you want to reach out to me about anything feel free to DM on Discord and eve
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
 <a href="https://discord.gg/A8ADYUGUnu">
-  <img align="left" alt=" Discord" width="130" hight="100" src="https://github.com/Kabeer75/Kabeer75/blob/master/assets/icons/Discord-Logo.png" />
+  <img align="left" alt=" Discord" width="130" hight="100" src="https://github.com/Kabeer75/Kabeer75/blob/main/assets/icons/Discord-Logo.png" />
 </a>
  </p>
  
