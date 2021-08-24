@@ -59,7 +59,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Kabeer75/Kabeer75/blob/main/assets/DU0.gif">
 
 
 If you want to reach out to me about anything feel free to DM on Discord.
