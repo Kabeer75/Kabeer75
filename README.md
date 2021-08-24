@@ -1,29 +1,94 @@
+# Hello there,
 
-## 1. GitHub Stats
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=Kabeer75&show_icons=true)
-## 2. Most Used Languages
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer75&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)]
-## 3. Random Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api)
-## 4. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Kabeer75)
-## 5. Repo View Counter
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Kabeer75/LDR)
-## DISCORD
-[![](https://img.shields.io/discord/833703967753764934?color=blue&label=Chill%20Paradise&logo=discord&logoColor=white&style=plastic)](https://discord.gg/A8ADYUGUnu)
-## Languages I know
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
-- ✨ **Javascript**
-- 👏 **HTML & CSS**
-- 🌠 **C# & C++**
+</br>
+</br>
+</br>
 
-## 6. Other Profile Stats
-[![](https://img.shields.io/github/followers/Kabeer75?color=FF0000&label=Followers&logo=Github&logoColor=FF0000&style=plastic)](https://github.com/Kabeer75)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)<br>
-![](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node-dot-js&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)
 
-## Logo Badge!
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# About ME 💬 :
 
+### - I'm Kabeer Parihar. A Science Enthusiast!
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ C++
+- ✨ JavaScript
+- ✨ C#
+- ✨ Python (a little bit)
+
+### - Hobbies : 
+- ✨ Gaming 
+- ✨ Watching Anime
+- ✨ Reading Books 
+- ✨ Basketball and Football
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything feel free to DM on Discord and even apps listed below.
+
+<a href="mailto:kabeerparihar.imbue@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/Kabeer75">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Kabeer75&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
